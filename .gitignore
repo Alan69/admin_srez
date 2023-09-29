@@ -35,3 +35,6 @@ __pycache__/
 *.log
 *.pot
 *.pyc
+/migrations
+migrations/
+/migrations/
