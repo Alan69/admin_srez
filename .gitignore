@@ -1,4 +1,4 @@
-db.sqlite3
+# db.sqlite3
 .vscode/
 .vs
 .vscode/* 
@@ -30,11 +30,11 @@ venv/
 ENV/ 
 env.bak/ 
 venv.bak/
-/__pycache__
-__pycache__/
+# /__pycache__
+# __pycache__/
 *.log
 *.pot
 *.pyc
-/migrations
-migrations/
-/migrations/
+# /migrations
+# migrations/
+# /migrations/
